@@ -1,0 +1,15 @@
+1. Run the following commands to install the csv library, get a working jupyter kernel for OCaml and the 2d plotting library: 
+$ opam install csv
+$ opam install ANSITerminal
+$ pip install jupyter
+$ opam install jupyter
+$ opam install jupyter-archimedes  # Jupyter-friendly 2D plotting library
+$ jupyter kernelspec install --name ocaml-jupyter "$(opam config var share)/jupyter"
+
+2. Run 
+$ jupyter notebook
+in the terminal, which should open up your file system in your browser. From there you can navigate to the .ipynb files and run them.
+
+Make sure to run 
+$ make build
+before running the algorithm notebooks.

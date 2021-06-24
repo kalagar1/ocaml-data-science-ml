@@ -33,3 +33,7 @@ Several demos in the form of prewritten Jupyter notebooks are offered, the follo
  2. `matrix.ipynb` - Matrix operations examples
  3.  `statistics.ipynb` - Statistics operations examples 
  4.  `<machine_learning_algo>.ipynb` - Examples on the usage of different machine learning algorithms is showcased, along with a visual representation generated using the `Archimedes` library.
+
+## Contributors
+
+This was a team project between [Krishnan Alagar](https://github.com/kalagar1), [Austin Wu](https://github.com/20austinw), and [Aryan Yadav](https://github.com/Aryan77/) for [CS 3110: Data Structures and Functional Programming.](https://classes.cornell.edu/browse/roster/SP21/class/CS/3110) 

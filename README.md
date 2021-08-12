@@ -36,4 +36,4 @@ Several demos in the form of prewritten Jupyter notebooks are offered, the follo
 
 ## Contributors
 
-This was a team project between [Krishnan Alagar](https://github.com/kalagar1), [Austin Wu](https://github.com/20austinw), and [Aryan Yadav](https://github.com/Aryan77/) for [CS 3110: Data Structures and Functional Programming.](https://classes.cornell.edu/browse/roster/SP21/class/CS/3110) 
+This was a team project between [Krishnan Alagar](https://github.com/krishnan-alagar), [Austin Wu](https://github.com/20austinw), and [Aryan Yadav](https://github.com/Aryan77/) for [CS 3110: Data Structures and Functional Programming.](https://classes.cornell.edu/browse/roster/SP21/class/CS/3110) 
